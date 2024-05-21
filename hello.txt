@@ -1,0 +1,12 @@
+hello this is the fits change
+
+Today I started to learn Git with few initial git commands
+few git commands I learned are 
+
+git init - to start initialize git to watch on files that changes
+git add - to start watching specific files.
+
+git add --all - to add all the files from the location to the git repository
+git add index.txt - to add a specific file into the git repository
+
+git 
